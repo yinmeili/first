@@ -1,0 +1,364 @@
+*{
+	padding: 0;
+	margin:0;
+}
+a{
+	text-decoration: none;
+}
+.A{
+	width:100%;
+	height:2361px;
+	background-color: #aaa;
+}
+.B{
+	width:1200px;
+	height:2267px;
+	background-color: #fff;
+	margin:0 auto;
+}
+.b{
+	width:100%;
+	height:154px;
+	background-color: #fff;
+	padding-top: 0px;
+	font-size: 14px;
+}
+.b1{
+	margin-left: 130px;
+	margin-top: 27px;
+}
+.b2{
+    margin-right: 197px;
+    margin-top: 27px;
+	float: right;
+	font-family: '微软雅黑'；
+	
+}
+.b3{
+	color:#0b4199;
+	font-size: 22px;
+}
+.c{
+	width:1200px;
+	height:159px;
+	padding-top: 14px;
+	background-color: #fff;
+	margin:0 auto;
+	
+}
+.c1{
+	color: #999999;
+	font-size: 14px;
+	float: left;
+}
+.c2{
+	color:#ffffff;
+	font-size: 14px;
+}
+.c3{
+	margin-top: 64px;
+	font-size: 24px;
+}
+.c4{
+	margin-bottom: 17px;
+	padding-left: 1000px;
+}
+.d{
+	height:629px;
+	width:1191px;
+}
+.d1{
+	margin-top: 58px;
+	margin-right: 0px;
+	
+	
+}
+.d2{
+	margin-top: 0px;
+	margin-left: 32px;
+	float: left;
+	
+}
+.d3{
+	padding-top: 49px;
+
+}
+.d4{
+	font-size: 24px;
+}
+.d5{
+	margin-top: 24px;
+}
+.d6{
+	margin-top: 45px;
+	margin-left: 232px;
+	float: right;
+}
+.e{
+	width: 1200px;
+	height:600px;
+	margin: 0 auto;
+}
+.e1{
+	padding-top: 0px;
+}
+.e2{
+	color: #0b4199;
+	font-size: 24px;
+	padding-left: 24px;
+}
+.ee2{
+	list-style: none;
+}
+.e3{
+
+    float: left;
+	padding-left: 24px;
+}
+.e33{
+	float: left;
+	padding-left:48px;
+}
+.e333{
+	padding-left:48px;
+}
+.e4{
+	float:left;
+	padding-top:30px;
+	margin-left: 24px;
+	font-size: 20px;
+	font-family: '微软雅黑'；
+}
+.e5{
+	padding-left: 24px;
+	float: left;
+}
+.e6{
+	padding-left: 714px;
+	padding-top: 60px;
+}
+.e7{
+	padding-top:50px;
+}
+.f{
+	width:1200px;
+	height: 332px;
+	margin: 0 auto;
+}
+.f1{
+	padding-left: 24px;
+	padding-top: 40px;
+}
+.f2{
+	padding-top: 90px;
+}
+.g{
+	width:1200px;
+	height:385px;
+}
+.g1{
+	font-size: 22px;
+	padding-top: 5px;
+	padding-left: 32px;
+}
+.g2{
+	width:196px;
+	height:250px;
+	float:left;
+    padding-top: 48px;
+    padding-left: 79px;
+}
+.g21{
+	text-align: center;
+}
+.g22{
+	padding-top: 16px;
+	text-align: center;
+}
+.g23{
+	padding-top: 14px;
+	text-align: center;
+	color: #2756a4;
+	text-decoration:underline;
+}
+.g3{
+	width:196px;
+	height:250px;
+	float:left;
+    padding-top: 48px;
+    padding-left: 243px;
+}
+.h{
+	width:1200px;
+	height:246px;
+}
+.s{
+	height: 58px;
+
+}
+.hhh1{
+	float:right;
+	font-size:14px;
+	line-height: 58px;
+	text-align: center;
+	padding-left: 100px;
+}
+.red{
+	color:red;
+	font-size:14px;
+	float:right;
+	line-height: 58px;
+	text-align: center;
+}
+.s2{
+	float:right;
+	font-size:14px;
+	line-height: 58px;
+	text-align: center;
+}
+.s3{
+	color: #0b41b2;
+	float:right;
+	font-size: 16px;
+	line-height: 58px;
+	text-align: center;
+}
+.hh2 ul{
+	height:69px;
+	width: 890px;
+	float: left;
+
+}
+.hh2 ul>li{
+	width: 110px;
+	height: 69px;
+	text-align: left;
+	line-height: 69px;
+	float: left;
+}
+.yy1{
+	float: right;
+	padding-top:10px; 
+	margin-top: 15px;
+}
+.s1{
+	padding-left: 10px;
+}
+.s2{
+	padding-left: 52px;
+}
+.D{
+	width: 100%;
+	height:153px;
+}
+.blockb1{
+	width: 100%;
+	margin: 0 auto;
+	background: #0b41b2;
+}
+.blockless1{
+	width: 1200px;
+	margin:0 auto ;
+}
+.last1{
+	clear: both;
+	height: 93px;
+}
+.last1 .kuai1 img{
+	padding-top:19px;
+}
+
+.last1 .kuai1{
+	color:white;
+	float:left;
+	font-size: 18px;
+	width: 310px;
+	line-height:77px;
+}
+.last1 .kuai2 img{
+	padding-top:19px;
+}
+.last1 .kuai2{
+	color:white;
+	float:left;
+	font-size: 18px;
+	width: 250px;
+	line-height:77px;
+}
+.last1 .kuai3 img{
+	padding-top:19px;
+}
+.last1 .kuai3{
+	width: 265px;
+	float:right;
+	font-size: 18px;
+	color:white;
+	line-height:77px;
+}
+.blockb2{
+	width: 100%;
+	margin: 0 auto;
+	background: #454545;
+}
+.blockless2{
+	width: 1200px;
+	margin:0 auto ;
+}
+.last2{
+	clear:both;
+	height: 320px;
+}
+.last2 .kuai1{
+	padding-top: 84px;
+	padding-left: 88px;
+	height:195px;
+	width:155px;
+	float:left;
+}
+
+.last2 .kuai1 ul>li{
+	font-size: 14px;
+	color: white;	
+}
+.last2 .kuai2{
+	padding-top:84px;
+	float:left;
+	height:195px;
+	width:155px;
+}
+.last2 .kuai2 ul>li{
+	font-size: 14px;
+	color: white;	
+}
+.last2 .kuai3{
+	width: 322px;
+	height: 181px;
+	padding-left:10px;
+	float:right;
+	margin-top:57px;
+	border-left:2px solid white;
+}
+.last2 .kuai3 .kuai3b{
+	padding-top:27px;
+	padding-left:12px;
+	height: 78px;
+	font-size:14px;
+	width: 320px;
+	color:white;
+}
+.last2 .kuai4{
+	clear: both;
+	height: 30px
+	padding-top:50px;
+	padding-left:60px;
+	padding-right:125px;	
+	font-size:12px;
+	color: white;
+
+}
+.last2 .kuai4 .left{
+	float:left;
+}
+.last2 .kuai4 .right{
+	float:right;
+}
